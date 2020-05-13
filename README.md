@@ -1,2 +1,2 @@
 # 2020_Tipdm_A
-Project for the data mining competition
+Project for the national data mining competition
